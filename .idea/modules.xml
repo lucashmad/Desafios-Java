@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Desafio-Enumeracao-Composicao/Desafio-Enumeracao-Composicao.iml" filepath="$PROJECT_DIR$/Desafio-Enumeracao-Composicao/Desafio-Enumeracao-Composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-Heranca-Polimorfismo/Desafio-Heranca-Polimorfismo.iml" filepath="$PROJECT_DIR$/Desafio-Heranca-Polimorfismo/Desafio-Heranca-Polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-Logica-Algoritmo-Java/Desafio-Logica-Algoritmo-Java.iml" filepath="$PROJECT_DIR$/Desafio-Logica-Algoritmo-Java/Desafio-Logica-Algoritmo-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafio-lista-matriz-vetores/Desafio-lista-matriz-vetores.iml" filepath="$PROJECT_DIR$/Desafio-lista-matriz-vetores/Desafio-lista-matriz-vetores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Desafios-Java.iml" filepath="$PROJECT_DIR$/.idea/Desafios-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Desafios-Orientacao-Objetos-Java/Desafios-Orientacao-Objetos-Java.iml" filepath="$PROJECT_DIR$/Desafios-Orientacao-Objetos-Java/Desafios-Orientacao-Objetos-Java.iml" />
+    </modules>
+  </component>
+</project>
